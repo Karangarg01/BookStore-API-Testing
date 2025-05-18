@@ -64,6 +64,10 @@ bookstore-api/
 ## Setup & Installation
 
 ### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Karangarg01/BookStore-API-Testing.git
+cd BookStore-API-Testing
+```
 2️⃣ Create virtual environment & install dependencies
 ```bash
 python -m venv venv
