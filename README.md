@@ -105,12 +105,8 @@ See: .github/workflows/python-tests.yml
 ## Learning Outcomes
 This project demonstrates:
 
--Writing modular and reusable API tests
-
--Understanding token-based auth and edge case handling
-
--Implementing end-to-end integration testing
-
--Integrating automated testing in a CI/CD pipeline
-
--SDET mindset: ownership of quality, coverage, and reliability
+- Writing modular and reusable API tests
+- Understanding token-based auth and edge case handling
+- Implementing end-to-end integration testing
+- Integrating automated testing in a CI/CD pipeline
+- SDET mindset: ownership of quality, coverage, and reliability
